@@ -10,8 +10,8 @@ notebooks/S7_Version-Estudiante-Project-ConnectaTel.ipynb
 ▶ Cómo abrir el notebook en Google Colab
 Haz clic en el siguiente botón:
 
-https://colab.research.google.com/assets/colab-badge.svg
-
+[https://colab.research.google.com/assets/colab-badge.svg
+](https://colab.research.google.com/drive/1utXs5ttb9PMrebnf6RpM2edO-lVLbJAH?usp=sharing)
 O:
 
 Abre el archivo .ipynb en GitHub
