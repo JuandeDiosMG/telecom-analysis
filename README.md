@@ -79,4 +79,4 @@ Ofrecer incentivos para migrar de Básico a Premium a usuarios con alto consumo 
 Monitorear a los clientes con consumo extremo para evitar abandono y mejorar la experiencia.
 
 🔗 Enlace al repositorio público
-https://github.com/tuusuario/connectatel-analysis
+[https://github.com/tuusuario/connectatel-analysis](https://github.com/JuandeDiosMG/telecom-analysis)
